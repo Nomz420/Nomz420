@@ -1,5 +1,4 @@
-### Witaj na moim profilu 👋
-#### Używam GitHuba głównie do mojego bota, więc nie znajdziesz tu nic ciekawego.
+## Welcome to my GitHub profile 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nomz420&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Nomz420/Nomz420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
